@@ -1,5 +1,5 @@
 ---
-title: "R3 Exercises"
+title: "R3 Exercices"
 author: "Heloise Frouin-Mouy"
 date: "6/21/2021"
 output: html_document
